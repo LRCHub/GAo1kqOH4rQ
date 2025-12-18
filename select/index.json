@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "混ざる",
+  "base_artist": "sidenerds",
+  "createdAt": "2025-12-18T08:35:09.204868Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "混ざる",
+      "artist": "sidenerds",
+      "has_synced": false,
+      "path": "select/pl_01_混ざる_sidenerds.txt"
+    }
+  ]
+}
